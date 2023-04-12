@@ -1,0 +1,13 @@
+;aiu;
+
+[Scribe 3.0]
+Name = Scribe
+ProductVersion = 3.0.0
+URL = https://www.dropbox.com/s/xx7s6pq0u0jqpb2/Scribe.msi?dl=1
+Size = 142422016
+SHA256 = CAE183AEFE187860000EE9AB0F96CC6A264D46AF4FCA5DED813A970BD1FA1466
+MD5 = ba86add9414b0ab514995637d9cd7969
+ServerFileName = Scribe.msi
+Flags = SilentInstall|Advertises
+RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
+Version = 3.0.0
