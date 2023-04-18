@@ -2,12 +2,12 @@
 
 [Scribe 3.0]
 Name = Scribe
-ProductVersion = 3.0.0
-URL = https://www.dropbox.com/s/xx7s6pq0u0jqpb2/Scribe.msi?dl=1
-Size = 142422016
-SHA256 = CAE183AEFE187860000EE9AB0F96CC6A264D46AF4FCA5DED813A970BD1FA1466
-MD5 = ba86add9414b0ab514995637d9cd7969
-ServerFileName = Scribe.msi
-Flags = SilentInstall|Advertises
+ProductVersion = 1.0.2
+URL = https://github.com/lukafilipov/scribe-update-test/releases/edit/v1.0.2/Scribe.exe
+Size = 147200104
+SHA256 = 93608BFA908A35ACD78B7F8A85DCA8D7B29DFEFA2570BA0E868AB502B18AE99F
+MD5 = 6f99f73cf1b61f1f698435d468c0cb27
+ServerFileName = Scribe.exe
+Flags = SilentInstall
 RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
-Version = 3.0.0
+Version = 1.0.2
