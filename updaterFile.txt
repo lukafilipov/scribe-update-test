@@ -2,12 +2,13 @@
 
 [Scribe 3.0]
 Name = Scribe
+NoGUICommandLineSwitch = /exenoui /qn
 ProductVersion = 1.0.2
 URL = https://github.com/lukafilipov/scribe-update-test/releases/download/v1.0.2/Scribe.exe
 Size = 147200104
 SHA256 = 93608BFA908A35ACD78B7F8A85DCA8D7B29DFEFA2570BA0E868AB502B18AE99F
 MD5 = 6f99f73cf1b61f1f698435d468c0cb27
 ServerFileName = Scribe.exe
-Flags = SilentInstall
+Flags = SilentInstall|Advertises
 RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
 Version = 1.0.2
