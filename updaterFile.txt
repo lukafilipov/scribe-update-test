@@ -4,10 +4,11 @@
 Name = Scribe
 ProductVersion = 1.0.1
 URL = https://github.com/lukafilipov/scribe-update-test/releases/download/v1.0.1/Scribe2.msi
-Size = 135089664
-SHA256 = 4F989C7E7BDF36F16B9C5A626E9238B86DD5B3224066ABF98E2D6058E4703AF5
-MD5 = 6322eb7ad8bd68ae7f3baef564a52b51
+Size = 142056960
+SHA256 = AE0F602EAB7F87D3AC615C15381F172FF61E9FD7775E7BDFB62E592A98FAB68D
+MD5 = 771c05e4b9352996b541c1b7039a160b
 ServerFileName = Scribe2.msi
-Flags = SilentInstall|Advertises|NoRedetect
+Flags = Advertises
 RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
 Version = 1.0.1
+AutoCloseApplication = [APPDIR]Scribe.exe
