@@ -11,3 +11,4 @@ ServerFileName = Scribe2.msi
 Flags = SilentInstall|Advertises|NoRedetect
 RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
 Version = 1.0.1
+AutoCloseApplication = [APPDIR]Scribe.exe
