@@ -1,0 +1,14 @@
+;aiu;
+
+[Scribe 3.0]
+Name = Scribe
+ProductVersion = 2.0.1
+URL = https://github.com/lukafilipov/scribe-update-test/releases/download/v2.0.1/Scribe_2.0.1.msi
+Size = 142056960
+SHA256 = 7A7CE97EAA520CF841BC7BF1C656E272B5C3C2AD3C2798299940AEF9DCF47759
+MD5 = b640911938203a351a6ebd9206928ab9
+ServerFileName = Scribe_2.0.1.msi
+Flags = SilentInstall|Advertises
+RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
+Version = 2.0.1
+AutoCloseApplication = [APPDIR]Scribe.exe
