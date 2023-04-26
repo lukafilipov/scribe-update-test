@@ -1,6 +1,6 @@
 ;aiu;
 
-[Scribe 3.0]
+[Scribe]
 Name = Scribe
 ProductVersion = 2.0.1
 URL = https://github.com/lukafilipov/scribe-update-test/releases/download/v2.0.1/Scribe_2.0.1.msi
