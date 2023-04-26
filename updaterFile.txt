@@ -8,6 +8,6 @@ Size = 142065152
 SHA256 = 36F634B28B7E88AB77B9B9C5175E59DB6BDB8B1121AE8A709C5E538CFF6A827D
 MD5 = 831fac685cb2eb30009a290b0402589c
 ServerFileName = Scribe_2.0.1.msi
-Flags = SilentInstall
+Flags = SilentInstall|Sys64|Advertises
 RegistryKey = HKUD\Software\Colony Labs Inc.\Scribe\Version
 AutoCloseApplication = [APPDIR]Scribe.exe
