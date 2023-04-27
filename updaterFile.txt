@@ -4,9 +4,9 @@
 Name = Scribe
 ProductVersion = 2.0.1
 URL = https://github.com/lukafilipov/scribe-update-test/releases/download/v2.0.1/Scribe_2.0.1.msi
-Size = 142065152
-SHA256 = EAEC55340077925ECE0F47FED92A7677779B1D4267A5DEC1373A48CAC434B9BD
-MD5 = 446633a581eb4d75724194ef83671c4d
+Size = 142067200
+SHA256 = 358156D05755FD437FDB89808DC476765540B5E11AAEB8615B158BC018A42BD8
+MD5 = f1049a65399f93d913cf2fde5b2f686e
 CommandLine = /qn
 ServerFileName = Scribe_2.0.1.msi
 Flags = SilentInstall|Sys64|Advertises
