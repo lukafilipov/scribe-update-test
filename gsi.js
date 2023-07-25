@@ -3062,7 +3062,7 @@ this.default_gsi = this.default_gsi || {};
         _.$e = function(a, b, c) {
             console.log("AAAAAAA", a, b, c)
             if (null != c && "number" !== typeof c)
-                throw Error();
+                // throw Error();
             return _.M(a, b, c)
         };
         _.G = function(a, b) {
